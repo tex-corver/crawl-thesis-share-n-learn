@@ -1,0 +1,36 @@
+{
+  "target": "https://shopee.sg/search?keyword=laptop",
+  "timestamp": "2026-04-22T05:55:44Z",
+  "ua": "Mozilla/5.0 (compatible; share-learn-research-contact; https://git.urieljsc.com/research)",
+  "findings": [
+    {
+      "phase": "phase0_plain_http",
+      "status": 200,
+      "final_url": "https://shopee.sg/search?keyword=laptop",
+      "has_next_data": false,
+      "has_initial_state": false,
+      "redirected_to_login": false,
+      "size": 157513
+    },
+    {
+      "phase": "phase0_api_probe",
+      "status": 403,
+      "body": {
+        "is_customized": false,
+        "is_login": false,
+        "action_type": 2,
+        "error": 90309999,
+        "tracking_id": "978e5af185b-1dc7-4a23-9cee-a85f2a55c823"
+      }
+    },
+    {
+      "phase": "phase1_browser_warmed",
+      "size": 185381,
+      "xhr_count": 224,
+      "final_url": "https://shopee.sg/buyer/login?fu_tracking_id=555cecb3f2f-5089-41ff-a7a8-0562d80ad0ae&next=https%3A%2F%2Fshopee.sg%2Fsearch%3Fkeyword%3Dlaptop",
+      "status": 200
+    }
+  ],
+  "rows_extracted": 0,
+  "verdict": "FAIL \u2014 application-layer protection (error 90309999, login required). Per thesis R5/R9 evidence, free tools cannot bypass. Tier-C required."
+}

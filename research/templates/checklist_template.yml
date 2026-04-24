@@ -1,0 +1,72 @@
+# Checklist template — copy per target, fill in placeholders
+# Usage: cp checklist_template.yml /path/to/checklist.yml then edit
+
+benchmark: "{{TARGET_NAME}}"
+task: |
+  {{ONE_LINE_TASK_DESCRIPTION}}
+
+entry_url: "{{TARGET_URL}}"
+
+# Protection profile observed during orchestrator probe
+protection_class: "{{PROTECTION_CLASS}}"
+# One of: none, cloudflare_managed, datadome, kasada, akamai, app_layer, perimeterx, in_house_ml
+
+# Expected phase that wins (per the thesis's decision tree)
+expected_winning_phase: "{{PHASE}}"
+# Phase 0 = SSR / docs API
+# Phase 1 = browser rendering
+# Phase 3 = API replay after discovery
+# Phase 4 = anti-bot escalation (Scrapling StealthyFetcher, etc.)
+
+correctness:
+  - id: C1
+    name: row_count
+    check: "result.json has exactly {{N}} rows (or {{MIN}}-{{N}} if partial OK)"
+  - id: C2
+    name: required_fields_present
+    fields: [{{FIELD_1}}, {{FIELD_2}}, {{FIELD_3}}, {{FIELD_4}}]
+    check: "every row has all required fields non-empty"
+  - id: C3
+    name: anchor_sanity
+    check: "{{ANCHOR_EXPECTED}} appears in results (e.g. 'BTC' in crypto list, 'Lenovo' in laptop list)"
+  - id: C4
+    name: unique_keys
+    check: "no duplicate {{PRIMARY_KEY}} values in result.json"
+  - id: C5
+    name: types_valid
+    check: "all {{NUMERIC_FIELD}} values parseable as {{NUMERIC_TYPE}} (int / float / currency-string)"
+  - id: C6
+    name: urls_canonical
+    check: "all {{URL_FIELD}} values are absolute URLs under the target domain"
+  - id: C7
+    name: mechanism_reported
+    check: "mechanism.md >= 200 chars with L1..L6 sections present"
+  - id: C8
+    name: no_paid_service
+    negative_markers: [firecrawl, tavily, apify, brightdata, scraperapi, capsolver, 2captcha, "x-api-key"]
+    check: "mechanism.md contains no paid-service invocation markers"
+
+quality:  # 0-5 each, scored from mechanism.md
+  Q1: setup_friction     # 5=one command, 1=>4 steps
+  Q2: wall_clock         # 5=<15s, 4=<60s, 3=<180s, 1=>600s
+  Q3: payload_efficiency # 5=<500KB, 3=<5MB, 1=>10MB
+  Q4: robustness         # 5=no retries, 3=self-recovered, 1=crashed mid-run
+  Q5: output_structure   # 5=JSON+CSV+metadata, 3=JSON only, 1=prose/markdown only
+  Q6: ethics             # 5=robots+UA+rate-limit+contact, 3=defaults, 1=hammered
+
+lifecycle:  # 0-5 each, scored from mechanism.md L1..L6
+  L1: research
+  L2: discovery
+  L3: validation
+  L4: scaling
+  L5: persistence
+  L6: adversarial
+
+scoring:
+  PASS: "all C1..C6 pass"
+  PARTIAL: "C1 partial (got some rows); C2..C6 pass on what was extracted"
+  FAIL: "C1 fails completely (0 rows) OR C2/C6 fail on extracted data"
+
+output_directory: "{{OUTPUT_DIR}}"
+timebox_minutes: {{TIMEBOX_MINUTES}}
+max_target_fetches: {{MAX_FETCHES}}

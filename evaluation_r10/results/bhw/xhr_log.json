@@ -1,0 +1,7 @@
+{
+  "note": "Scrapling 0.4.7 StealthyFetcher.fetch() drives a stealth Playwright browser internally with solve_cloudflare=True. Raw request/response events are not surfaced by the fetch() API in this version; only the final page object (status, html_content) is returned.",
+  "tier": "browser (Patchright/Playwright under Scrapling)",
+  "final_status": 200,
+  "final_bytes": 168894,
+  "events": []
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "rank": 1,
+    "symbol": "USDCUSDT",
+    "last_price": 0.99976,
+    "change_24h_pct": 0.025,
+    "quote_volume_24h_usd": 3053670709.25649
+  },
+  {
+    "rank": 2,
+    "symbol": "BTCUSDT",
+    "last_price": 77887.0,
+    "change_24h_pct": 2.408,
+    "quote_volume_24h_usd": 1481862723.6449296
+  },
+  {
+    "rank": 3,
+    "symbol": "ETHUSDT",
+    "last_price": 2386.06,
+    "change_24h_pct": 3.022,
+    "quote_volume_24h_usd": 790831585.420613
+  },
+  {
+    "rank": 4,
+    "symbol": "SOLUSDT",
+    "last_price": 87.83,
+    "change_24h_pct": 2.653,
+    "quote_volume_24h_usd": 232635038.05006
+  },
+  {
+    "rank": 5,
+    "symbol": "XRPUSDT",
+    "last_price": 1.4537,
+    "change_24h_pct": 1.289,
+    "quote_volume_24h_usd": 128753375.47208
+  },
+  {
+    "rank": 6,
+    "symbol": "USD1USDT",
+    "last_price": 0.9998,
+    "change_24h_pct": 0.02,
+    "quote_volume_24h_usd": 104699778.693
+  },
+  {
+    "rank": 7,
+    "symbol": "RLUSDUSDT",
+    "last_price": 1.0,
+    "change_24h_pct": 0.0,
+    "quote_volume_24h_usd": 87497049.1659
+  },
+  {
+    "rank": 8,
+    "symbol": "ZECUSDT",
+    "last_price": 322.65,
+    "change_24h_pct": 1.462,
+    "quote_volume_24h_usd": 84798033.83928
+  },
+  {
+    "rank": 9,
+    "symbol": "BNBUSDT",
+    "last_price": 641.63,
+    "change_24h_pct": 1.411,
+    "quote_volume_24h_usd": 83426029.00754
+  },
+  {
+    "rank": 10,
+    "symbol": "CHIPUSDT",
+    "last_price": 0.07856,
+    "change_24h_pct": 554.667,
+    "quote_volume_24h_usd": 82377816.41297
+  },
+  {
+    "rank": 11,
+    "symbol": "DOGEUSDT",
+    "last_price": 0.09748,
+    "change_24h_pct": 2.245,
+    "quote_volume_24h_usd": 64696889.34051
+  },
+  {
+    "rank": 12,
+    "symbol": "\u5e01\u5b89\u4eba\u751fUSDT",
+    "last_price": 0.4657,
+    "change_24h_pct": -5.249,
+    "quote_volume_24h_usd": 55107102.84598
+  },
+  {
+    "rank": 13,
+    "symbol": "PEPEUSDT",
+    "last_price": 3.89e-06,
+    "change_24h_pct": 2.91,
+    "quote_volume_24h_usd": 45009130.10361235
+  },
+  {
+    "rank": 14,
+    "symbol": "TRXUSDT",
+    "last_price": 0.3327,
+    "change_24h_pct": 1.094,
+    "quote_volume_24h_usd": 38744416.24702
+  },
+  {
+    "rank": 15,
+    "symbol": "UUSDT",
+    "last_price": 0.9998,
+    "change_24h_pct": 0.02,
+    "quote_volume_24h_usd": 38313741.7985
+  },
+  {
+    "rank": 16,
+    "symbol": "ADAUSDT",
+    "last_price": 0.2548,
+    "change_24h_pct": 2.412,
+    "quote_volume_24h_usd": 36703939.77428
+  },
+  {
+    "rank": 17,
+    "symbol": "SUIUSDT",
+    "last_price": 0.9658,
+    "change_24h_pct": 2.028,
+    "quote_volume_24h_usd": 31130818.41737
+  },
+  {
+    "rank": 18,
+    "symbol": "PAXGUSDT",
+    "last_price": 4753.58,
+    "change_24h_pct": -0.309,
+    "quote_volume_24h_usd": 30379157.302485
+  },
+  {
+    "rank": 19,
+    "symbol": "AVAXUSDT",
+    "last_price": 9.57,
+    "change_24h_pct": 2.572,
+    "quote_volume_24h_usd": 30126470.2995
+  },
+  {
+    "rank": 20,
+    "symbol": "FDUSDUSDT",
+    "last_price": 0.9993,
+    "change_24h_pct": 0.04,
+    "quote_volume_24h_usd": 29864017.6895
+  },
+  {
+    "rank": 21,
+    "symbol": "LINKUSDT",
+    "last_price": 9.5,
+    "change_24h_pct": 1.604,
+    "quote_volume_24h_usd": 27896629.2301
+  },
+  {
+    "rank": 22,
+    "symbol": "EURUSDT",
+    "last_price": 1.1749,
+    "change_24h_pct": -0.17,
+    "quote_volume_24h_usd": 26073043.0232
+  },
+  {
+    "rank": 23,
+    "symbol": "AAVEUSDT",
+    "last_price": 92.78,
+    "change_24h_pct": 0.466,
+    "quote_volume_24h_usd": 25544563.82601
+  },
+  {
+    "rank": 24,
+    "symbol": "GUNUSDT",
+    "last_price": 0.01822,
+    "change_24h_pct": -30.749,
+    "quote_volume_24h_usd": 25476018.04187
+  },
+  {
+    "rank": 25,
+    "symbol": "METUSDT",
+    "last_price": 0.191,
+    "change_24h_pct": 30.912,
+    "quote_volume_24h_usd": 22194744.00642
+  },
+  {
+    "rank": 26,
+    "symbol": "TAOUSDT",
+    "last_price": 247.2,
+    "change_24h_pct": 0.447,
+    "quote_volume_24h_usd": 20548930.38107
+  },
+  {
+    "rank": 27,
+    "symbol": "RUNEUSDT",
+    "last_price": 0.498,
+    "change_24h_pct": 17.453,
+    "quote_volume_24h_usd": 19521749.821
+  },
+  {
+    "rank": 28,
+    "symbol": "DASHUSDT",
+    "last_price": 36.88,
+    "change_24h_pct": 6.899,
+    "quote_volume_24h_usd": 18842606.06159
+  },
+  {
+    "rank": 29,
+    "symbol": "ORDIUSDT",
+    "last_price": 4.541,
+    "change_24h_pct": -7.703,
+    "quote_volume_24h_usd": 17589548.53455
+  },
+  {
+    "rank": 30,
+    "symbol": "NEARUSDT",
+    "last_price": 1.405,
+    "change_24h_pct": 2.405,
+    "quote_volume_24h_usd": 17040137.2682
+  }
+]

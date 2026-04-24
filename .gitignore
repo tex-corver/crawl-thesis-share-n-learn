@@ -1,0 +1,94 @@
+# ─────────────────────────────────────────────────────────────
+# share_learn_research / crawl-thesis — .gitignore
+#
+# What DOES get committed:
+#   • .claude/skills + .claude/agents + .claude/commands (the thesis)
+#   • Makefile + scripts/ (install + preflight)
+#   • essay_deep_dive.md + slides.md + README.md + CLAUDE.md
+#   • evaluation_r*/ + evaluation_scrapling/ (benchmark evidence)
+#   • package.json + package-lock.json
+#
+# Everything below is either reproducible (`make venvs` / `npm install`)
+# or sensitive (`.proxies`) or local noise.
+# ─────────────────────────────────────────────────────────────
+
+# ── Python venvs (reproducible via `make venvs`) ─────────────
+.venv-*/
+venv/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ── Node dependencies (reproducible via `npm install`) ───────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# ── Slidev build artefacts ───────────────────────────────────
+dist/
+.slidev/
+.slidev-cache/
+
+# ── Personal / presenter-only (not for the team repo) ────────
+PRESENTER_NOTES_VI.md
+PRESENTER_NOTES_*.md
+notes_private/
+
+# ── Sensitive — NEVER commit ─────────────────────────────────
+.proxies
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+credentials.json
+.netrc
+
+# ── Logs, temp, local-only ───────────────────────────────────
+*.log
+/tmp/
+tmp/
+.cache/
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# ── OS / editor noise ────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.zed/
+
+# ── Claude Code local state (shouldn't leak to repo) ─────────
+.claude/projects/
+.claude/statsig/
+.claude/todos/
+.claude/shell-snapshots/
+# IMPORTANT: .claude/skills/, .claude/agents/, .claude/commands/ ARE committed —
+# they are the thesis itself. Only runtime/state dirs are ignored above.
+
+# ── Docker build context ─────────────────────────────────────
+.dockerignore.local
+
+# ── Coverage + CI artefacts ──────────────────────────────────
+.coverage
+htmlcov/
+coverage.xml
+*.cover
+
+# ── Test scratch (benchmark re-runs live in evaluation_* which IS committed) ──
+/scratch/
+/tmp-benchmarks/

@@ -1,0 +1,4 @@
+{
+  "note": "No browser tier executed. Stopped at Phase 0 curl probe + Phase 1 Tier-A.1 curl_cffi probe per thesis rule: Kasada-on-Akamai is Tier-C-only (R8 Hyatt evidence). Running Scrapling StealthyFetcher would burn a 3rd fetch against an already-flagged IP without any realistic chance of success — humanize=True does not solve the Kasada POW token mint.",
+  "xhr_records": []
+}

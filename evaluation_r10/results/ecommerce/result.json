@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "Abominable Hoodie",
+    "price": "$69.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh09-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/abominable-hoodie/"
+  },
+  {
+    "name": "Adrienne Trek Jacket",
+    "price": "$57.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj08-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/adrienne-trek-jacket/"
+  },
+  {
+    "name": "Aeon Capri",
+    "price": "$48.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp07-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/aeon-capri/"
+  },
+  {
+    "name": "Aero Daily Fitness Tee",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms01-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/aero-daily-fitness-tee/"
+  },
+  {
+    "name": "Aether Gym Pant",
+    "price": "$74.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp11-brown_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/aether-gym-pant/"
+  },
+  {
+    "name": "Affirm Water Bottle",
+    "price": "$7.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug06-lb-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/affirm-water-bottle/"
+  },
+  {
+    "name": "Aim Analog Watch",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mg04-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/aim-analog-watch/"
+  },
+  {
+    "name": "Ajax Full-Zip Sweatshirt",
+    "price": "$69.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh12-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ajax-full-zip-sweatshirt/"
+  },
+  {
+    "name": "Ana Running Short",
+    "price": "$40.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh10-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ana-running-short/"
+  },
+  {
+    "name": "Angel Light Running Short",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh06-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/angel-light-running-short/"
+  },
+  {
+    "name": "Antonia Racer Tank",
+    "price": "$34.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt08-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/antonia-racer-tank/"
+  },
+  {
+    "name": "Apollo Running Short",
+    "price": "$32.50",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh02-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/apollo-running-short/"
+  },
+  {
+    "name": "Arcadio Gym Short",
+    "price": "$20.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh11-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/arcadio-gym-short/"
+  },
+  {
+    "name": "Argus All-Weather Tank",
+    "price": "$22.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt07-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/argus-all-weather-tank/"
+  },
+  {
+    "name": "Ariel Roll Sleeve Sweatshirt",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh09-purple_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ariel-roll-sleeve-sweatshirt/"
+  },
+  {
+    "name": "Artemis Running Short",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh04-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/artemis-running-short/"
+  },
+  {
+    "name": "Atlas Fitness Tank",
+    "price": "$18.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt11-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/atlas-fitness-tank/"
+  },
+  {
+    "name": "Atomic Endurance Running Tee (Crew-Neck)",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms12-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/atomic-endurance-running-tee-crew-neck/"
+  },
+  {
+    "name": "Atomic Endurance Running Tee (V-neck)",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms11-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/atomic-endurance-running-tee-v-neck/"
+  },
+  {
+    "name": "Augusta Pullover Jacket",
+    "price": "$57.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj03-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/augusta-pullover-jacket/"
+  },
+  {
+    "name": "Autumn Pullie",
+    "price": "$57.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh03-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/autumn-pullie/"
+  },
+  {
+    "name": "Balboa Persistence Tee",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms03-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/balboa-persistence-tee/"
+  },
+  {
+    "name": "Bardot Capri",
+    "price": "$48.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp08-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/bardot-capri/"
+  },
+  {
+    "name": "Beaumont Summit Kit",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj01-yellow_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/beaumont-summit-kit/"
+  },
+  {
+    "name": "Bella Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt01-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/bella-tank/"
+  },
+  {
+    "name": "Bess Yoga Short",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh05-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/bess-yoga-short/"
+  },
+  {
+    "name": "Bolo Sport Watch",
+    "price": "$49.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wg01-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/bolo-sport-watch/"
+  },
+  {
+    "name": "Breathe-Easy Tank",
+    "price": "$34.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt09-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/breathe-easy-tank/"
+  },
+  {
+    "name": "Bruno Compete Hoodie",
+    "price": "$63.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh03-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/bruno-compete-hoodie/"
+  },
+  {
+    "name": "Caesar Warm-Up Pant",
+    "price": "$35.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp01-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/caesar-warm-up-pant/"
+  },
+  {
+    "name": "Carina Basic Capri",
+    "price": "$51.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp09-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/carina-basic-capri/"
+  },
+  {
+    "name": "Cassia Funnel Sweatshirt",
+    "price": "$48.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh08-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/cassia-funnel-sweatshirt/"
+  },
+  {
+    "name": "Cassius Sparring Tank",
+    "price": "$18.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt12-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/cassius-sparring-tank/"
+  },
+  {
+    "name": "Celeste Sports Bra",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb03-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/celeste-sports-bra/"
+  },
+  {
+    "name": "Chaz Kangeroo Hoodie",
+    "price": "$52.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh01-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/chaz-kangeroo-hoodie/"
+  },
+  {
+    "name": "Chloe Compete Tank",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt06-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/chloe-compete-tank/"
+  },
+  {
+    "name": "Circe Hooded Ice Fleece",
+    "price": "$68.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh12-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/circe-hooded-ice-fleece/"
+  },
+  {
+    "name": "Clamber Watch",
+    "price": "$54.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wg03-gr-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/clamber-watch/"
+  },
+  {
+    "name": "Cobalt CoolTech™ Fitness Short",
+    "price": "$44.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh01-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/cobalt-cooltech-fitness-short/"
+  },
+  {
+    "name": "Compete Track Tote",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb02-green-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/compete-track-tote/"
+  },
+  {
+    "name": "Cora Parachute Pant",
+    "price": "$75.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp04-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/cora-parachute-pant/"
+  },
+  {
+    "name": "Cronus Yoga Pant",
+    "price": "$48.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp12-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/cronus-yoga-pant/"
+  },
+  {
+    "name": "Crown Summit Backpack",
+    "price": "$38.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mb03-black-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/crown-summit-backpack/"
+  },
+  {
+    "name": "Cruise Dual Analog Watch",
+    "price": "$55.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mg05-br-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/cruise-dual-analog-watch/"
+  },
+  {
+    "name": "Daphne Full-Zip Hoodie",
+    "price": "$59.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh06-purple_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/daphne-full-zip-hoodie/"
+  },
+  {
+    "name": "Daria Bikram Pant",
+    "price": "$51.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp10-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/daria-bikram-pant/"
+  },
+  {
+    "name": "Dash Digital Watch",
+    "price": "$92.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mg02-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/dash-digital-watch/"
+  },
+  {
+    "name": "Deion Long-Sleeve EverCool™ Tee",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms07-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/deion-long-sleeve-evercool-tee/"
+  },
+  {
+    "name": "Deirdre Relaxed-Fit Capri",
+    "price": "$63.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp12-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/deirdre-relaxed-fit-capri/"
+  },
+  {
+    "name": "Desiree Fitness Tee",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws05-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/desiree-fitness-tee/"
+  },
+  {
+    "name": "Diana Tights",
+    "price": "$59.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp06-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/diana-tights/"
+  },
+  {
+    "name": "Didi Sport Watch",
+    "price": "$92.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wg02-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/didi-sport-watch/"
+  },
+  {
+    "name": "Diva Gym Tee",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws11-yellow_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/diva-gym-tee/"
+  },
+  {
+    "name": "Driven Backpack",
+    "price": "$36.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb03-purple-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/driven-backpack/"
+  },
+  {
+    "name": "Dual Handle Cardio Ball",
+    "price": "$12.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug07-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/dual-handle-cardio-ball/"
+  },
+  {
+    "name": "Echo Fit Compression Short",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh07-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/echo-fit-compression-short/"
+  },
+  {
+    "name": "Electra Bra Top",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb01-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/electra-bra-top/"
+  },
+  {
+    "name": "Elisa EverCool™ Tee",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws06-purple_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/elisa-evercool-tee/"
+  },
+  {
+    "name": "Endeavor Daytrip Backpack",
+    "price": "$33.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb06-red-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/endeavor-daytrip-backpack/"
+  },
+  {
+    "name": "Endurance Watch",
+    "price": "$49.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mg01-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/endurance-watch/"
+  },
+  {
+    "name": "Eos V-Neck Hoodie",
+    "price": "$54.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh11-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/eos-v-neck-hoodie/"
+  },
+  {
+    "name": "Erica Evercool Sports Bra",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb02-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/erica-evercool-sports-bra/"
+  },
+  {
+    "name": "Erika Running Short",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh12-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/erika-running-short/"
+  },
+  {
+    "name": "Erikssen CoolTech™ Fitness Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt01-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/erikssen-cooltech-fitness-tank/"
+  },
+  {
+    "name": "Fiona Fitness Short",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh01-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/fiona-fitness-short/"
+  },
+  {
+    "name": "Frankie  Sweatshirt",
+    "price": "$60.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh04-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/frankie-sweatshirt/"
+  },
+  {
+    "name": "Fusion Backpack",
+    "price": "$59.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mb02-gray-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/fusion-backpack/"
+  },
+  {
+    "name": "Gabrielle Micro Sleeve Top",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws02-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/gabrielle-micro-sleeve-top/"
+  },
+  {
+    "name": "Geo Insulated Jogging Pant",
+    "price": "$51.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp03-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/geo-insulated-jogging-pant/"
+  },
+  {
+    "name": "Go-Get’r Pushup Grips",
+    "price": "$19.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug05-gr-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/go-getr-pushup-grips/"
+  },
+  {
+    "name": "Gobi HeatTec® Tee",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms04-orange_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/gobi-heattec-tee/"
+  },
+  {
+    "name": "Grayson Crewneck Sweatshirt",
+    "price": "$64.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh11-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/grayson-crewneck-sweatshirt/"
+  },
+  {
+    "name": "Gwen Drawstring Bike Short",
+    "price": "$50.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh03-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/gwen-drawstring-bike-short/"
+  },
+  {
+    "name": "Gwyn Endurance Tee",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws01-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/gwyn-endurance-tee/"
+  },
+  {
+    "name": "Harmony Lumaflex™ Strength Band Kit",
+    "price": "$22.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug03-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/harmony-lumaflex-strength-band-kit/"
+  },
+  {
+    "name": "Hawkeye Yoga Short",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh05-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/hawkeye-yoga-short/"
+  },
+  {
+    "name": "Helena Hooded Fleece",
+    "price": "$55.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh10-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/helena-hooded-fleece/"
+  },
+  {
+    "name": "Helios Endurance Tank",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt04-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/helios-endurance-tank/"
+  },
+  {
+    "name": "Helios EverCool™ Tee",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms05-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/helios-evercool-tee/"
+  },
+  {
+    "name": "Hera Pullover Hoodie",
+    "price": "$48.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh02-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/hera-pullover-hoodie/"
+  },
+  {
+    "name": "Hero Hoodie",
+    "price": "$54.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh07-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/hero-hoodie/"
+  },
+  {
+    "name": "Hollister Backyard Sweatshirt",
+    "price": "$52.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh05-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/hollister-backyard-sweatshirt/"
+  },
+  {
+    "name": "Hyperion Elements Jacket",
+    "price": "$51.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj02-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/hyperion-elements-jacket/"
+  },
+  {
+    "name": "Ida Workout Parachute Pant",
+    "price": "$48.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp03-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ida-workout-parachute-pant/"
+  },
+  {
+    "name": "Impulse Duffle",
+    "price": "$74.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ub02-black-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/impulse-duffle/"
+  },
+  {
+    "name": "Ina Compression Short",
+    "price": "$49.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh11-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ina-compression-short/"
+  },
+  {
+    "name": "Ingrid Running Jacket",
+    "price": "$84.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj04-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ingrid-running-jacket/"
+  },
+  {
+    "name": "Iris Workout Top",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws03-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/iris-workout-top/"
+  },
+  {
+    "name": "Jade Yoga Jacket",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj09-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/jade-yoga-jacket/"
+  },
+  {
+    "name": "Josie Yoga Jacket",
+    "price": "$56.25",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj02-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/josie-yoga-jacket/"
+  },
+  {
+    "name": "Joust Duffle Bag",
+    "price": "$34.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mb01-blue-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/joust-duffle-bag/"
+  },
+  {
+    "name": "Juliana Short-Sleeve Tee",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws07-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/juliana-short-sleeve-tee/"
+  },
+  {
+    "name": "Jupiter All-Weather Trainer",
+    "price": "$56.99",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj06-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/jupiter-all-weather-trainer/"
+  },
+  {
+    "name": "Karissa V-Neck Tee",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws10-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/karissa-v-neck-tee/"
+  },
+  {
+    "name": "Karmen Yoga Pant",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp01-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/karmen-yoga-pant/"
+  },
+  {
+    "name": "Kenobi Trail Jacket",
+    "price": "$47.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj04-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/kenobi-trail-jacket/"
+  },
+  {
+    "name": "Kratos Gym Pant",
+    "price": "$57.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp05-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/kratos-gym-pant/"
+  },
+  {
+    "name": "Lando Gym Jacket",
+    "price": "$99.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj08-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/lando-gym-jacket/"
+  },
+  {
+    "name": "Layla Tee",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws04-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/layla-tee/"
+  },
+  {
+    "name": "Leah Yoga Top",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt05-purple_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/leah-yoga-top/"
+  },
+  {
+    "name": "Livingston All-Purpose Tight",
+    "price": "$75.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp09-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/livingston-all-purpose-tight/"
+  },
+  {
+    "name": "Logan  HeatTec® Tee",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms10-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/logan-heattec-tee/"
+  },
+  {
+    "name": "Lono Yoga Short",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh06-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/lono-yoga-short/"
+  },
+  {
+    "name": "Lucia Cross-Fit Bra",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb05-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/lucia-cross-fit-bra/"
+  },
+  {
+    "name": "Luma Analog Watch",
+    "price": "$43.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wg09-gr-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/luma-analog-watch/"
+  },
+  {
+    "name": "Mach Street Sweatshirt",
+    "price": "$62.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh10-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/mach-street-sweatshirt/"
+  },
+  {
+    "name": "Marco Lightweight Active Hoodie",
+    "price": "$74.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh13-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/marco-lightweight-active-hoodie/"
+  },
+  {
+    "name": "Mars HeatTech™ Pullover",
+    "price": "$66.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj10-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/mars-heattech-pullover/"
+  },
+  {
+    "name": "Maxima Drawstring Short",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh02-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/maxima-drawstring-short/"
+  },
+  {
+    "name": "Maya Tunic",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt07-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/maya-tunic/"
+  },
+  {
+    "name": "Meteor Workout Short",
+    "price": "$32.50",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh03-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/meteor-workout-short/"
+  },
+  {
+    "name": "Miko Pullover Hoodie",
+    "price": "$69.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh04-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/miko-pullover-hoodie/"
+  },
+  {
+    "name": "Mimi All-Purpose Short",
+    "price": "$44.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh09-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/mimi-all-purpose-short/"
+  },
+  {
+    "name": "Minerva LumaTech™ V-Tee",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws08-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/minerva-lumatech-v-tee/"
+  },
+  {
+    "name": "Mithra Warmup Pant",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp06-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/mithra-warmup-pant/"
+  },
+  {
+    "name": "Mona Pullover Hoodlie",
+    "price": "$57.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh01-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/mona-pullover-hoodlie/"
+  },
+  {
+    "name": "Montana Wind Jacket",
+    "price": "$49.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj03-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/montana-wind-jacket/"
+  },
+  {
+    "name": "Nadia Elements Shell",
+    "price": "$69.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj10-yellow_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/nadia-elements-shell/"
+  },
+  {
+    "name": "Neve Studio Dance Jacket",
+    "price": "$69.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj11-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/neve-studio-dance-jacket/"
+  },
+  {
+    "name": "Nona Fitness Tank",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt04-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/nona-fitness-tank/"
+  },
+  {
+    "name": "Nora Practice Tank",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt03-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/nora-practice-tank/"
+  },
+  {
+    "name": "Olivia 1/4 Zip Light Jacket",
+    "price": "$77.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj12-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/olivia-1-4-zip-light-jacket/"
+  },
+  {
+    "name": "Orestes Fitness Short",
+    "price": "$35.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh08-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/orestes-fitness-short/"
+  },
+  {
+    "name": "Orestes Yoga Pant",
+    "price": "$66.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp10-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/orestes-yoga-pant/"
+  },
+  {
+    "name": "Orion Two-Tone Fitted Jacket",
+    "price": "$72.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj07-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/orion-two-tone-fitted-jacket/"
+  },
+  {
+    "name": "Oslo Trek Hoodie",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh08-brown_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/oslo-trek-hoodie/"
+  },
+  {
+    "name": "Overnight Duffle",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb07-brown-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/overnight-duffle/"
+  },
+  {
+    "name": "Phoebe Zipper Sweatshirt",
+    "price": "$59.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh07-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/phoebe-zipper-sweatshirt/"
+  },
+  {
+    "name": "Pierce Gym Short",
+    "price": "$27.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh12-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/pierce-gym-short/"
+  },
+  {
+    "name": "Portia Capri",
+    "price": "$49.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp13-orange_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/portia-capri/"
+  },
+  {
+    "name": "Prima Compete Bra Top",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb04-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/prima-compete-bra-top/"
+  },
+  {
+    "name": "Primo Endurance Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt03-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/primo-endurance-tank/"
+  },
+  {
+    "name": "Proteus Fitness Jackshirt",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj12-orange_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/proteus-fitness-jackshirt/"
+  },
+  {
+    "name": "Pursuit Lumaflex™ Tone Band",
+    "price": "$16.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug02-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/pursuit-lumaflex-tone-band/"
+  },
+  {
+    "name": "Push It Messenger Bag",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb04-blue-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/push-it-messenger-bag/"
+  },
+  {
+    "name": "Quest Lumaflex™ Band",
+    "price": "$19.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug01-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/quest-lumaflex-band/"
+  },
+  {
+    "name": "Radiant Tee",
+    "price": "$22.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws12-orange_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/radiant-tee/"
+  },
+  {
+    "name": "Rapha  Sports Short",
+    "price": "$35.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh07-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/rapha-sports-short/"
+  },
+  {
+    "name": "Riona Full Zip Jacket",
+    "price": "$60.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj05-brown_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/riona-full-zip-jacket/"
+  },
+  {
+    "name": "Rival Field Messenger",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mb06-gray-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/rival-field-messenger/"
+  },
+  {
+    "name": "Rocco Gym Tank",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt05-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/rocco-gym-tank/"
+  },
+  {
+    "name": "Ryker LumaTech™ Tee (Crew-neck)",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms09-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ryker-lumatech-tee-crew-neck/"
+  },
+  {
+    "name": "Ryker LumaTech™ Tee (V-neck)",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms02-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ryker-lumatech-tee-v-neck/"
+  },
+  {
+    "name": "Sahara Leggings",
+    "price": "$75.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp05-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sahara-leggings/"
+  },
+  {
+    "name": "Savvy Shoulder Tote",
+    "price": "$32.00$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb05-red-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/savvy-shoulder-tote/"
+  },
+  {
+    "name": "Selene Yoga Hoodie",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh05-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/selene-yoga-hoodie/"
+  },
+  {
+    "name": "Sinbad Fitness Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt09-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sinbad-fitness-tank/"
+  },
+  {
+    "name": "Sol Active Short",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh10-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sol-active-short/"
+  },
+  {
+    "name": "Sparta Gym Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt08-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sparta-gym-tank/"
+  },
+  {
+    "name": "Sprite Foam Roller",
+    "price": "$19.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-foam-roller.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-foam-roller/"
+  },
+  {
+    "name": "Sprite Foam Yoga Brick",
+    "price": "$5.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-yoga-brick.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-foam-yoga-brick/"
+  },
+  {
+    "name": "Sprite Stasis Ball 55 cm",
+    "price": "$23.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball-gray.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-55-cm/"
+  },
+  {
+    "name": "Sprite Stasis Ball 55 cm",
+    "price": "$23.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball-pink.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-55-cm-2/"
+  },
+  {
+    "name": "Sprite Stasis Ball 55 cm",
+    "price": "$23.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-55-cm-3/"
+  },
+  {
+    "name": "Sprite Stasis Ball 65 cm",
+    "price": "$27.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball-gray.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-65-cm/"
+  },
+  {
+    "name": "Sprite Stasis Ball 65 cm",
+    "price": "$27.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball-pink.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-65-cm-2/"
+  },
+  {
+    "name": "Sprite Stasis Ball 65 cm",
+    "price": "$27.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-65-cm-3/"
+  },
+  {
+    "name": "Sprite Stasis Ball 75 cm",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball-gray.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-75-cm/"
+  },
+  {
+    "name": "Sprite Stasis Ball 75 cm",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball-pink.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-75-cm-2/"
+  },
+  {
+    "name": "Sprite Stasis Ball 75 cm",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-stability-ball.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-stasis-ball-75-cm-3/"
+  },
+  {
+    "name": "Sprite Yoga Strap 10 foot",
+    "price": "$21.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-yoga-strap.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-yoga-strap-10-foot/"
+  },
+  {
+    "name": "Sprite Yoga Strap 6 foot",
+    "price": "$14.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-yoga-strap.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-yoga-strap-6-foot/"
+  },
+  {
+    "name": "Sprite Yoga Strap 8 foot",
+    "price": "$17.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/luma-yoga-strap.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sprite-yoga-strap-8-foot/"
+  },
+  {
+    "name": "Stark Fundamental Hoodie",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh06-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/stark-fundamental-hoodie/"
+  },
+  {
+    "name": "Stellar Solar Jacket",
+    "price": "$75.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wj01-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/stellar-solar-jacket/"
+  },
+  {
+    "name": "Strike Endurance Tee",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms08-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/strike-endurance-tee/"
+  },
+  {
+    "name": "Strive Shoulder Pack",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mb04-black-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/strive-shoulder-pack/"
+  },
+  {
+    "name": "Summit Watch",
+    "price": "$54.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mg03-br-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/summit-watch/"
+  },
+  {
+    "name": "Supernova Sport Pant",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp04-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/supernova-sport-pant/"
+  },
+  {
+    "name": "Sybil Running Short",
+    "price": "$44.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wsh08-purple_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sybil-running-short/"
+  },
+  {
+    "name": "Sylvia Capri",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wp11-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/sylvia-capri/"
+  },
+  {
+    "name": "Taurus Elements Shell",
+    "price": "$65.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj09-yellow_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/taurus-elements-shell/"
+  },
+  {
+    "name": "Teton Pullover Hoodie",
+    "price": "$70.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh02-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/teton-pullover-hoodie/"
+  },
+  {
+    "name": "Thorpe Track Pant",
+    "price": "$68.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp07-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/thorpe-track-pant/"
+  },
+  {
+    "name": "Tiberius Gym Tank",
+    "price": "$18.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt10-yellow_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/tiberius-gym-tank/"
+  },
+  {
+    "name": "Tiffany Fitness Tee",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws09-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/tiffany-fitness-tee/"
+  },
+  {
+    "name": "Torque Power Short",
+    "price": "$32.50",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh04-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/torque-power-short/"
+  },
+  {
+    "name": "Tristan Endurance Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt02-white_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/tristan-endurance-tank/"
+  },
+  {
+    "name": "Troy Yoga Short",
+    "price": "$24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh09-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/troy-yoga-short/"
+  },
+  {
+    "name": "Typhon Performance Fleece-lined Jacket",
+    "price": "$60.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj11-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/typhon-performance-fleece-lined-jacket/"
+  },
+  {
+    "name": "Viktor LumaTech™ Pant",
+    "price": "$46.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp02-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/viktor-lumatech-pant/"
+  },
+  {
+    "name": "Voyage Yoga Bag",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb01-black-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/voyage-yoga-bag/"
+  },
+  {
+    "name": "Vulcan Weightlifting Tank",
+    "price": "$28.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mt06-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/vulcan-weightlifting-tank/"
+  },
+  {
+    "name": "Wayfarer Messenger Bag",
+    "price": "$45.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mb05-black-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/wayfarer-messenger-bag/"
+  },
+  {
+    "name": "Zeppelin Yoga Pant",
+    "price": "$82.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp08-green_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/zeppelin-yoga-pant/"
+  },
+  {
+    "name": "Zing Jump Rope",
+    "price": "$12.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ug04-bk-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/zing-jump-rope/"
+  },
+  {
+    "name": "Zoe Tank",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wt02-orange_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/zoe-tank/"
+  },
+  {
+    "name": "Zoltan Gym Tee",
+    "price": "$29.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms06-blue_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/zoltan-gym-tee/"
+  }
+]

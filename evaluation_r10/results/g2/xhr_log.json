@@ -1,0 +1,26 @@
+{
+  "note": "StealthyFetcher's request-capture hook was not wired in (Scrapling 0.4.7 fetch() API does not expose page.on before navigation in the convenience wrapper). Primary target returned a DataDome 403 interstitial before any XHR from the real app was issued, so no app XHRs were observable to capture.",
+  "observed_interstitial_resources": [
+    {
+      "url": "https://www.g2.com/categories/crm",
+      "method": "GET",
+      "status": 403,
+      "content-type": "text/html;charset=utf-8",
+      "notes": "DataDome pre-challenge. x-datadome: protected, x-dd-b: 2, x-datadome-cid present."
+    },
+    {
+      "url": "https://ct.captcha-delivery.com/c.js",
+      "method": "GET (referenced, not fetched by us)",
+      "status": "n/a",
+      "content-type": "application/javascript",
+      "notes": "DataDome challenge script URL embedded in the interstitial body."
+    },
+    {
+      "url": "https://geo.captcha-delivery.com/captcha/?...",
+      "method": "GET (would-be next hop in full-enforcement path)",
+      "status": "n/a",
+      "content-type": "n/a",
+      "notes": "Per R8 evidence, this is where the slider/puzzle CAPTCHA is served once the interstitial's DataDome payload POSTs back telemetry. We never reached this hop because the initial 403 interstitial never yielded even with humanize=True / real_chrome=False on StealthyFetcher."
+    }
+  ]
+}

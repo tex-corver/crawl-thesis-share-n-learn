@@ -1,0 +1,20 @@
+name: Deploy prod
+
+on:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+jobs:
+  call-common-workflow:
+    uses: tex-corver/.github/.github/workflows/docker-build-push.yaml@master
+    with:
+      org-name: uriel
+      project-name: crawl-thesis-share-n-learn
+      tag: v1
+      docker-build-file: Dockerfile
+      docker-build-context: .
+      port: 80
+      ingress: true
+      ingress-domain: claude-share.urieljsc.com
+      test-command: echo 1

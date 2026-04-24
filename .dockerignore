@@ -1,0 +1,25 @@
+# Deps (rebuilt inside Docker)
+node_modules
+.venv-*
+
+# Python artefacts (not needed in slides image)
+cmc_research
+evaluation
+evaluation_r*
+round*
+research
+share_learn_demo/live_run
+share_learn_demo/cache
+.proxies
+
+# VCS + IDE
+.git
+.gitignore
+.github
+.vscode
+.idea
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

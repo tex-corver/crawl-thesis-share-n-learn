@@ -1,0 +1,75 @@
+{
+  "target": "https://www.lowes.com/pl/Lawn-mowers-Outdoor-power-equipment-Outdoors/4294857935",
+  "protection_class": "akamai_bot_manager",
+  "attempts": [
+    {
+      "attempt": 1,
+      "profile": "safari18_0",
+      "referer": null,
+      "status": 200,
+      "bytes": 2592,
+      "verdict": "sensor_page_akamai",
+      "akamai_grn": "0.10d82317.1776837265.beae0f21",
+      "server_timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1776837265024_388225040_3199078177_91_35155_21_0_255\";dur=1",
+      "sensor_markers": [
+        "akamai",
+        "sec-if-cpt-container",
+        "sec-bc-*",
+        "SZrnEFaAqVDtZY6zWkp5 sensor-script path"
+      ]
+    },
+    {
+      "attempt": 2,
+      "profile": "chrome131",
+      "referer": null,
+      "status": 403,
+      "bytes": 453,
+      "verdict": "edge_deny_akamai",
+      "akamai_grn": "0.10d82317.1776837277.beaeb346",
+      "server_timing": "cdn-cache; desc=HIT, edge; dur=77, ak_p; desc=\"1776837277166_388225040_3199120198_7764_44218_20_26_255\";dur=1"
+    },
+    {
+      "attempt": 3,
+      "profile": "firefox135",
+      "referer": null,
+      "status": 200,
+      "bytes": 2592,
+      "verdict": "sensor_page_akamai",
+      "akamai_grn": "0.856633b8.1776837290.454ec72",
+      "server_timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1776837290077_3090376325_72674418_75_32945_22_0_255\";dur=1",
+      "sensor_markers": [
+        "akamai",
+        "sec-if-cpt-container",
+        "sec-bc-*",
+        "SZrnEFaAqVDtZY6zWkp5 sensor-script path"
+      ]
+    },
+    {
+      "attempt": 4,
+      "profile": "chrome120",
+      "referer": null,
+      "status": 403,
+      "bytes": 453,
+      "verdict": "edge_deny_akamai",
+      "akamai_grn": "0.10d82317.1776837302.beb0048c",
+      "server_timing": "cdn-cache; desc=HIT, edge; dur=66, ak_p; desc=\"1776837302265_388225040_3199206540_6551_38236_24_29_255\";dur=1"
+    },
+    {
+      "attempt": 5,
+      "profile": "safari18_0",
+      "referer": "https://www.google.com/",
+      "status": 200,
+      "bytes": 2592,
+      "verdict": "sensor_page_akamai",
+      "akamai_grn": "0.16d82317.1776837314.9e3c250a",
+      "server_timing": "cdn-cache; desc=HIT, edge; dur=1, ak_p; desc=\"1776837314711_388225046_2654741770_81_33041_27_0_255\";dur=1",
+      "sensor_markers": [
+        "akamai",
+        "sec-if-cpt-container",
+        "sec-bc-*",
+        "SZrnEFaAqVDtZY6zWkp5 sensor-script path"
+      ]
+    }
+  ],
+  "winner": null
+}

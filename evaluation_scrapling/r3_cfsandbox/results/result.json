@@ -1,0 +1,21 @@
+{
+  "status": 200,
+  "page_title": "Cloudflare Challenge - ScrapingCourse.com",
+  "h1": "Cloudflare Challenge",
+  "sample_paragraph": "You bypassed the Cloudflare challenge! :D",
+  "success_banner_h2": "You bypassed the Cloudflare challenge! :D",
+  "body_length_kb": 4.4,
+  "solve_seconds": 20.5,
+  "url_after_solve": "https://www.scrapingcourse.com/cloudflare-challenge",
+  "attempts": [
+    {
+      "attempt": 1,
+      "humanize": false,
+      "status": 200,
+      "title": "Cloudflare Challenge - ScrapingCourse.com",
+      "body_kb": 4.4,
+      "elapsed_s": 20.5
+    }
+  ],
+  "outcome": "PASS"
+}
