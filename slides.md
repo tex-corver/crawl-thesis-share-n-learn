@@ -7,7 +7,6 @@ info: |
   Presented by hainm · 22/04/2026
 author: hainm
 presenter: true
-download: true
 exportFilename: crawling-with-llm-share-and-learn
 highlighter: shiki
 lineNumbers: false
