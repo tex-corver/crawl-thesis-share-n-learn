@@ -16,5 +16,5 @@ jobs:
       docker-build-context: .
       port: 80
       ingress: true
-      ingress-domain: claude-share.urieljsc.com
+      ingress-domain: crawl-thesis.urieljsc.com
       test-command: echo 1
