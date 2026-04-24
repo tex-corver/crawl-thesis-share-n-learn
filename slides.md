@@ -631,28 +631,29 @@ layout: section
 
 # Where the thesis actually works
 
-```mermaid
-flowchart TB
-    subgraph PASS ["✅ Free/local tools PASS"]
-        direction TB
-        P1["Polite / docs-API / SSR sites<br/><i>R1 · R2 · R4 · R6</i>"]
-        P2["Cloudflare Turnstile / managed<br/><i>R3-v1 · R5-v1 · R7 · sandbox AND real production</i>"]
-    end
-    subgraph FAIL ["❌ Free/local tools FAIL"]
-        direction TB
-        F1["Application-layer signature<br/><i>R5 Shopee</i>"]
-        F2["DataDome · R8 G2"]
-        F3["Kasada v3 · R8 Hyatt"]
-        F4["Akamai Bot Manager · R8 Lowe's"]
-    end
-    subgraph PROXY ["🟡 + ISP proxy pool"]
-        direction TB
-        PR1["Same outcome · flips failure MODE<br/>Akamai actually WORSE · bad-ASN"]
-    end
-    style PASS fill:#1f4d2f,stroke:#4ade80,color:#fff
-    style FAIL fill:#4d1f1f,stroke:#f87171,color:#fff
-    style PROXY fill:#4d3f1f,stroke:#facc15,color:#fff
-```
+<div class="grid grid-cols-3 gap-4 mt-4 text-sm">
+
+<div class="rounded-lg p-4 flex flex-col gap-3" style="background:#1f4d2f;border:2px solid #4ade80;color:#fff">
+  <div class="font-bold text-base">✅ Free/local tools PASS</div>
+  <div class="bg-black/30 rounded p-3 leading-snug">Polite / docs-API / SSR sites<br/><em class="opacity-80">R1 · R2 · R4 · R6</em></div>
+  <div class="bg-black/30 rounded p-3 leading-snug">Cloudflare Turnstile / managed<br/><em class="opacity-80">R3-v1 · R5-v1 · R7 · sandbox <strong>AND</strong> real production</em></div>
+</div>
+
+<div class="rounded-lg p-4 flex flex-col gap-2" style="background:#4d1f1f;border:2px solid #f87171;color:#fff">
+  <div class="font-bold text-base">❌ Free/local tools FAIL</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">Application-layer signature<br/><em class="opacity-80">R5 Shopee</em></div>
+  <div class="bg-black/30 rounded p-2 leading-snug">DataDome · <em class="opacity-80">R8 G2</em></div>
+  <div class="bg-black/30 rounded p-2 leading-snug">Kasada v3 · <em class="opacity-80">R8 Hyatt</em></div>
+  <div class="bg-black/30 rounded p-2 leading-snug">Akamai Bot Manager · <em class="opacity-80">R8 Lowe's</em></div>
+</div>
+
+<div class="rounded-lg p-4 flex flex-col gap-3" style="background:#4d3f1f;border:2px solid #facc15;color:#fff">
+  <div class="font-bold text-base">🟡 + ISP proxy pool</div>
+  <div class="bg-black/30 rounded p-3 leading-snug">Same outcome · flips failure <strong>MODE</strong></div>
+  <div class="bg-black/30 rounded p-3 leading-snug">Akamai actually <strong>WORSE</strong><br/><em class="opacity-80">bad-ASN</em></div>
+</div>
+
+</div>
 
 ---
 layout: center
@@ -680,37 +681,33 @@ No exceptions found across 6 rounds (each run twice).
 
 <div class="text-sm opacity-80 mb-2">Scrapy = <em>framework</em> (scheduling, AutoThrottle, Items, Pipelines, FEEDS). Scrapling = <em>fetcher library</em> (TLS impersonation, CF solver). They <strong>compose</strong> — plug Scrapling in as Scrapy's downloader.</div>
 
-```mermaid
-flowchart LR
-    subgraph A [ONE-OFF · Tier A]
-        direction TB
-        A1["Scrapling Fetcher<br/>+ curl"]
-        A2["40-line script<br/>zero deps"]
-        A1 --- A2
-    end
-    subgraph B [RECURRENT · Tier A]
-        direction TB
-        B1["skill →<br/>Scrapy (framework)<br/>+ Scrapling Fetcher<br/>(downloader)"]
-        B2["LLM bootstraps once<br/>Cron runs forever"]
-        B1 --- B2
-    end
-    subgraph C [ADVERSARIAL · Tier B · CF-managed]
-        direction TB
-        C1["Scrapy (framework)<br/>+ Scrapling<br/>StealthyFetcher<br/>(403-fallback middleware)"]
-        C2["✓ Clears CF<br/>✗ DD / Kasada / Akamai → Tier C"]
-        C1 --- C2
-    end
-    subgraph D [TIER C · paid]
-        direction TB
-        D1["Vendor API as downloader<br/><i>Scrapfly · ZenRows · Bright Data</i>"]
-        D2["$30-500/mo<br/>pay-per-success"]
-        D1 --- D2
-    end
-    style A fill:#1f3d5a,color:#fff
-    style B fill:#1f5a3d,color:#fff
-    style C fill:#5a3d1f,color:#fff
-    style D fill:#5a1f3d,color:#fff
-```
+<div class="grid grid-cols-4 gap-3 text-xs mt-3">
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#1f3d5a;color:#fff">
+  <div class="font-bold text-sm">ONE-OFF · Tier A</div>
+  <div class="bg-black/30 rounded p-2 leading-snug"><strong>Scrapling Fetcher</strong> + curl</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">40-line script · zero deps</div>
+</div>
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#1f5a3d;color:#fff">
+  <div class="font-bold text-sm">RECURRENT · Tier A</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">skill → <strong>Scrapy</strong> (framework) + <strong>Scrapling Fetcher</strong> (downloader)</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">LLM bootstraps once · Cron runs forever</div>
+</div>
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#5a3d1f;color:#fff">
+  <div class="font-bold text-sm">ADVERSARIAL · Tier B · CF-managed</div>
+  <div class="bg-black/30 rounded p-2 leading-snug"><strong>Scrapy</strong> + <strong>StealthyFetcher</strong> (403-fallback middleware)</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">✓ Clears CF<br/>✗ DD / Kasada / Akamai → Tier C</div>
+</div>
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#5a1f3d;color:#fff">
+  <div class="font-bold text-sm">TIER C · paid</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">Vendor API as downloader<br/><em>Scrapfly · ZenRows · Bright Data</em></div>
+  <div class="bg-black/30 rounded p-2 leading-snug">$30-500/mo · pay-per-success</div>
+</div>
+
+</div>
 
 ---
 
