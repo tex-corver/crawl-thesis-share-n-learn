@@ -1,0 +1,7 @@
+/* Hide Slidev's "goto slide" autocomplete dialog from the public deck.
+ * Stays visible in dev/presenter mode via local install if needed.
+ */
+#slidev-goto-dialog,
+.autocomplete-list {
+  display: none !important;
+}
