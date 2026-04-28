@@ -646,7 +646,7 @@ layout: section
 
 <div class="rounded-lg p-4" style="background:#1f4d2f;border:2px solid #4ade80;color:#fff">
   <div class="font-bold text-base mb-2">✅ free / local clears</div>
-  <ul class="space-y-1.5 list-none pl-0 leading-snug">
+  <ul style="list-style:none;padding-left:0" class="space-y-1.5 leading-snug">
     <li>• Polite public APIs · <em class="opacity-70">R1 CMC · R2 Binance</em></li>
     <li>• HTML / SSR sites · <em class="opacity-70">R4 ecomm · R6 Substack</em></li>
     <li>• Cloudflare managed (real production) · <em class="opacity-70">R3 sandbox · R7 BHW</em></li>
@@ -655,7 +655,7 @@ layout: section
 
 <div class="rounded-lg p-4" style="background:#4d1f1f;border:2px solid #f87171;color:#fff">
   <div class="font-bold text-base mb-2">❌ paid Tier-C required</div>
-  <ul class="space-y-1.5 list-none pl-0 leading-snug">
+  <ul style="list-style:none;padding-left:0" class="space-y-1.5 leading-snug">
     <li>• Application-layer signature · <em class="opacity-70">R5 Shopee</em></li>
     <li>• DataDome · <em class="opacity-70">R8 G2</em></li>
     <li>• Kasada v3 · <em class="opacity-70">R8 Hyatt</em></li>
