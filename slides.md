@@ -638,14 +638,14 @@ class: text-center
 
 # The thesis, in one breath
 
-<div v-click class="mt-6 text-3xl leading-snug max-w-4xl mx-auto">
+<div class="mt-6 text-3xl leading-snug max-w-4xl mx-auto">
 
 <strong>Free / local tools clear everything up to and including Cloudflare-managed.</strong><br>
 <span class="opacity-70">Anything harder needs paid Tier-C.</span>
 
 </div>
 
-<div v-click class="mt-10 text-lg opacity-70">
+<div class="mt-10 text-lg opacity-70">
 
 6 benchmark rounds · each run twice · zero exceptions.
 
