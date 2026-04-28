@@ -632,71 +632,43 @@ layout: section
 <div class="opacity-60 text-lg mt-4">6 rounds · one binary boundary</div>
 
 ---
-layout: center
-class: text-center
----
 
-# The thesis, in one breath
+# The thesis
 
-<div class="mt-8 text-2xl leading-relaxed max-w-4xl mx-auto">
+<div class="text-xl leading-relaxed max-w-5xl mx-auto mt-2">
 
-<strong>Free / local tools clear everything up to and including Cloudflare-managed.</strong>
-
-<div class="mt-6 opacity-70">Anything harder needs paid Tier-C.</div>
+<strong>Free / local tools clear everything up to and including Cloudflare-managed.</strong><br>
+<span class="opacity-70">Anything harder needs paid Tier-C.</span>
 
 </div>
 
-<div class="mt-12 text-base opacity-60">
+<div class="grid grid-cols-2 gap-5 mt-5 text-sm">
 
-6 benchmark rounds · each run twice · zero exceptions.
-
+<div class="rounded-lg p-4" style="background:#1f4d2f;border:2px solid #4ade80;color:#fff">
+  <div class="font-bold text-base mb-2">✅ free / local clears</div>
+  <ul class="space-y-1.5 list-none pl-0 leading-snug">
+    <li>• Polite public APIs · <em class="opacity-70">R1 CMC · R2 Binance</em></li>
+    <li>• HTML / SSR sites · <em class="opacity-70">R4 ecomm · R6 Substack</em></li>
+    <li>• Cloudflare managed (real production) · <em class="opacity-70">R3 sandbox · R7 BHW</em></li>
+  </ul>
 </div>
 
----
-
-# Where the thesis actually works
-
-<div class="grid grid-cols-3 gap-4 mt-4 text-sm">
-
-<div class="rounded-lg p-4 flex flex-col gap-3" style="background:#1f4d2f;border:2px solid #4ade80;color:#fff">
-  <div class="font-bold text-base">✅ Free/local tools PASS</div>
-  <div class="bg-black/30 rounded p-3 leading-snug">Polite / docs-API / SSR sites<br/><em class="opacity-80">R1 · R2 · R4 · R6</em></div>
-  <div class="bg-black/30 rounded p-3 leading-snug">Cloudflare Turnstile / managed<br/><em class="opacity-80">R3-v1 · R5-v1 · R7 · sandbox <strong>AND</strong> real production</em></div>
-</div>
-
-<div class="rounded-lg p-4 flex flex-col gap-2" style="background:#4d1f1f;border:2px solid #f87171;color:#fff">
-  <div class="font-bold text-base">❌ Free/local tools FAIL</div>
-  <div class="bg-black/30 rounded p-2 leading-snug">Application-layer signature<br/><em class="opacity-80">R5 Shopee</em></div>
-  <div class="bg-black/30 rounded p-2 leading-snug">DataDome · <em class="opacity-80">R8 G2</em></div>
-  <div class="bg-black/30 rounded p-2 leading-snug">Kasada v3 · <em class="opacity-80">R8 Hyatt</em></div>
-  <div class="bg-black/30 rounded p-2 leading-snug">Akamai Bot Manager · <em class="opacity-80">R8 Lowe's</em></div>
-</div>
-
-<div class="rounded-lg p-4 flex flex-col gap-3" style="background:#4d3f1f;border:2px solid #facc15;color:#fff">
-  <div class="font-bold text-base">🟡 + ISP proxy pool</div>
-  <div class="bg-black/30 rounded p-3 leading-snug">Same outcome · flips failure <strong>MODE</strong></div>
-  <div class="bg-black/30 rounded p-3 leading-snug">Akamai actually <strong>WORSE</strong><br/><em class="opacity-80">bad-ASN</em></div>
+<div class="rounded-lg p-4" style="background:#4d1f1f;border:2px solid #f87171;color:#fff">
+  <div class="font-bold text-base mb-2">❌ paid Tier-C required</div>
+  <ul class="space-y-1.5 list-none pl-0 leading-snug">
+    <li>• Application-layer signature · <em class="opacity-70">R5 Shopee</em></li>
+    <li>• DataDome · <em class="opacity-70">R8 G2</em></li>
+    <li>• Kasada v3 · <em class="opacity-70">R8 Hyatt</em></li>
+    <li>• Akamai Bot Manager · <em class="opacity-70">R8 Lowe's</em></li>
+  </ul>
 </div>
 
 </div>
 
----
-layout: center
-class: text-center
----
+<div class="mt-4 text-center text-xs opacity-70">
 
-# The 2026 rule
-
-<div v-click class="mt-8 text-3xl leading-snug max-w-4xl mx-auto">
-
-Free tools clear everything up to and including <strong>Cloudflare-managed challenges.</strong><br>
-<span class="opacity-70">Everything harder needs paid Tier-C infrastructure.</span>
-
-</div>
-
-<div v-click class="mt-12 text-lg opacity-60">
-
-No exceptions found across 6 rounds (each run twice).
+⚠️ <strong>+ ISP proxy pool</strong> · same result, flips failure <em>mode</em> · Akamai actually <strong>worse</strong> (bad-ASN). Price band ≠ trust.<br>
+The thesis composes <strong>methodology + framework + tools + LLM orchestration</strong> · 6 rounds · run twice · zero exceptions.
 
 </div>
 
@@ -792,45 +764,45 @@ layout: section
 
 # 5 takeaways
 
-<div class="mt-6 grid grid-cols-1 gap-4 max-w-3xl mx-auto">
+<div class="mt-3 grid grid-cols-1 gap-2 max-w-3xl mx-auto">
 
-<div v-click class="flex items-start gap-5 bg-white/5 p-4 rounded">
-  <div class="text-3xl font-bold opacity-40 leading-none w-10 text-right">1</div>
+<div v-click class="flex items-start gap-4 bg-white/5 p-3 rounded">
+  <div class="text-2xl font-bold opacity-40 leading-none w-8 text-right">1</div>
   <div>
-    <div class="text-lg font-semibold">"Find where the data lives" beats "find the backend API"</div>
-    <div class="text-sm opacity-80">In R2 alone, data lived in 3 places: SSR blob · XHR · public API. No single tool found all three. Production pipelines are compositions.</div>
+    <div class="text-base font-semibold">"Find where the data lives" beats "find the backend API"</div>
+    <div class="text-xs opacity-80">In R2 alone, data lived in 3 places: SSR blob · XHR · public API. No single tool found all three. Production pipelines are compositions.</div>
   </div>
 </div>
 
-<div v-click class="flex items-start gap-5 bg-white/5 p-4 rounded">
-  <div class="text-3xl font-bold opacity-40 leading-none w-10 text-right">2</div>
+<div v-click class="flex items-start gap-4 bg-white/5 p-3 rounded">
+  <div class="text-2xl font-bold opacity-40 leading-none w-8 text-right">2</div>
   <div>
-    <div class="text-lg font-semibold">Phase 0 curl decides 80% of the work</div>
-    <div class="text-sm opacity-80">If raw HTML has what you need, don't launch a browser. Ever.</div>
+    <div class="text-base font-semibold">Phase 0 curl decides 80% of the work</div>
+    <div class="text-xs opacity-80">If raw HTML has what you need, don't launch a browser. Ever.</div>
   </div>
 </div>
 
-<div v-click class="flex items-start gap-5 bg-white/5 p-4 rounded">
-  <div class="text-3xl font-bold opacity-40 leading-none w-10 text-right">3</div>
+<div v-click class="flex items-start gap-4 bg-white/5 p-3 rounded">
+  <div class="text-2xl font-bold opacity-40 leading-none w-8 text-right">3</div>
   <div>
-    <div class="text-lg font-semibold">Framework defaults beat hand-rolled features</div>
-    <div class="text-sm opacity-80">Scrapy's <code>AutoThrottle</code>, <code>Items</code>, <code>FEEDS</code>, <code>RobotsTxt</code> = lifecycle hygiene as config. R4's auto-bug-catch proves it.</div>
+    <div class="text-base font-semibold">Framework defaults beat hand-rolled features</div>
+    <div class="text-xs opacity-80">Scrapy's <code>AutoThrottle</code>, <code>Items</code>, <code>FEEDS</code>, <code>RobotsTxt</code> = lifecycle hygiene as config. R4's auto-bug-catch proves it.</div>
   </div>
 </div>
 
-<div v-click class="flex items-start gap-5 bg-white/5 p-4 rounded">
-  <div class="text-3xl font-bold opacity-40 leading-none w-10 text-right">4</div>
+<div v-click class="flex items-start gap-4 bg-white/5 p-3 rounded">
+  <div class="text-2xl font-bold opacity-40 leading-none w-8 text-right">4</div>
   <div>
-    <div class="text-lg font-semibold">Browsers for <em>discovery</em> · plain HTTP for <em>scaled fetching</em></div>
-    <div class="text-sm opacity-80">Find in a browser, then downgrade to HTTP. R7 BHW: Scrapling found the path, plain requests replayed it.</div>
+    <div class="text-base font-semibold">Browsers for <em>discovery</em> · plain HTTP for <em>scaled fetching</em></div>
+    <div class="text-xs opacity-80">Find in a browser, then downgrade to HTTP. R7 BHW: Scrapling found the path, plain requests replayed it.</div>
   </div>
 </div>
 
-<div v-click class="flex items-start gap-5 bg-white/5 p-4 rounded">
-  <div class="text-3xl font-bold opacity-40 leading-none w-10 text-right">5</div>
+<div v-click class="flex items-start gap-4 bg-white/5 p-3 rounded">
+  <div class="text-2xl font-bold opacity-40 leading-none w-8 text-right">5</div>
   <div>
-    <div class="text-lg font-semibold">Honest failure ≥ fake success</div>
-    <div class="text-sm opacity-80">R5 Shopee's mechanism.md (62 XHRs + telemetry endpoint) is more useful to the next engineer than any "we did it!" screenshot.</div>
+    <div class="text-base font-semibold">Honest failure ≥ fake success</div>
+    <div class="text-xs opacity-80">R5 Shopee's mechanism.md (62 XHRs + telemetry endpoint) is more useful than any "we did it!" screenshot.</div>
   </div>
 </div>
 
