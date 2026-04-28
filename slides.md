@@ -465,6 +465,8 @@ layout: section
 
 # The 6 rounds at a glance
 
+<div class="text-sm">
+
 | # | Target | Protection | Outcome |
 |---:|---|---|---|
 | 1 | CoinMarketCap | SSR blob | ✅ 100/100 · Fetch MCP wins · Scrapling 0.60 s |
@@ -474,7 +476,9 @@ layout: section
 | **5** | **Shopee** · real retail | App-layer | ❌ silent `/login` · ISP proxy doesn't help |
 | **6** | G2 / Hyatt / Lowe's | DataDome · Kasada · Akamai | ❌ 0/3 — **Tier-C required** |
 
-<div v-click class="mt-4 text-center text-sm opacity-80">
+</div>
+
+<div v-click class="mt-3 text-center text-xs opacity-80">
 
 <strong>R3 bonus:</strong> Scrapling's CF solve <strong>transfers to real production</strong> — BlackHatWorld (real CF forum), ~17 s. Sandbox-to-production parity confirmed.
 
@@ -623,9 +627,29 @@ An ISP-class proxy pool made Akamai *worse* (`reason=bad-asn`). **Price band ≠
 layout: section
 ---
 
-# The calibrated ceiling
+# The thesis
 
 <div class="opacity-60 text-lg mt-4">6 rounds · one binary boundary</div>
+
+---
+layout: center
+class: text-center
+---
+
+# The thesis, in one breath
+
+<div v-click class="mt-6 text-3xl leading-snug max-w-4xl mx-auto">
+
+<strong>Free / local tools clear everything up to and including Cloudflare-managed.</strong><br>
+<span class="opacity-70">Anything harder needs paid Tier-C.</span>
+
+</div>
+
+<div v-click class="mt-10 text-lg opacity-70">
+
+6 benchmark rounds · each run twice · zero exceptions.
+
+</div>
 
 ---
 
