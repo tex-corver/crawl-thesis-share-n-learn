@@ -633,6 +633,40 @@ layout: section
 
 ---
 
+# The four tiers
+
+<div class="text-sm opacity-80 mb-2">Scrapy = <em>framework</em> (scheduling, AutoThrottle, Items, Pipelines, FEEDS). Scrapling = <em>fetcher library</em> (TLS impersonation, CF solver). They <strong>compose</strong> — plug Scrapling in as Scrapy's downloader.</div>
+
+<div class="grid grid-cols-4 gap-3 text-xs mt-3">
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#1f3d5a;color:#fff">
+  <div class="font-bold text-sm">ONE-OFF · Tier A</div>
+  <div class="bg-black/30 rounded p-2 leading-snug"><strong>Scrapling Fetcher</strong> + curl</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">40-line script · zero deps</div>
+</div>
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#1f5a3d;color:#fff">
+  <div class="font-bold text-sm">RECURRENT · Tier A</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">skill → <strong>Scrapy</strong> (framework) + <strong>Scrapling Fetcher</strong> (downloader)</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">LLM bootstraps once · Cron runs forever</div>
+</div>
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#5a3d1f;color:#fff">
+  <div class="font-bold text-sm">ADVERSARIAL · Tier B · CF-managed</div>
+  <div class="bg-black/30 rounded p-2 leading-snug"><strong>Scrapy</strong> + <strong>StealthyFetcher</strong> (403-fallback middleware)</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">✓ Clears CF<br/>✗ DD / Kasada / Akamai → Tier C</div>
+</div>
+
+<div class="rounded p-3 flex flex-col gap-2" style="background:#5a1f3d;color:#fff">
+  <div class="font-bold text-sm">TIER C · paid</div>
+  <div class="bg-black/30 rounded p-2 leading-snug">Vendor API as downloader<br/><em>Scrapfly · ZenRows · Bright Data</em></div>
+  <div class="bg-black/30 rounded p-2 leading-snug">$30-500/mo · pay-per-success</div>
+</div>
+
+</div>
+
+---
+
 # The thesis
 
 <div class="text-xl leading-relaxed max-w-5xl mx-auto mt-2">
@@ -669,40 +703,6 @@ layout: section
 
 ⚠️ <strong>+ ISP proxy pool</strong> · same result, flips failure <em>mode</em> · Akamai actually <strong>worse</strong> (bad-ASN). Price band ≠ trust.<br>
 The thesis composes <strong>methodology + framework + tools + LLM orchestration</strong> · 6 rounds · run twice · zero exceptions.
-
-</div>
-
----
-
-# The recommended stack
-
-<div class="text-sm opacity-80 mb-2">Scrapy = <em>framework</em> (scheduling, AutoThrottle, Items, Pipelines, FEEDS). Scrapling = <em>fetcher library</em> (TLS impersonation, CF solver). They <strong>compose</strong> — plug Scrapling in as Scrapy's downloader.</div>
-
-<div class="grid grid-cols-4 gap-3 text-xs mt-3">
-
-<div class="rounded p-3 flex flex-col gap-2" style="background:#1f3d5a;color:#fff">
-  <div class="font-bold text-sm">ONE-OFF · Tier A</div>
-  <div class="bg-black/30 rounded p-2 leading-snug"><strong>Scrapling Fetcher</strong> + curl</div>
-  <div class="bg-black/30 rounded p-2 leading-snug">40-line script · zero deps</div>
-</div>
-
-<div class="rounded p-3 flex flex-col gap-2" style="background:#1f5a3d;color:#fff">
-  <div class="font-bold text-sm">RECURRENT · Tier A</div>
-  <div class="bg-black/30 rounded p-2 leading-snug">skill → <strong>Scrapy</strong> (framework) + <strong>Scrapling Fetcher</strong> (downloader)</div>
-  <div class="bg-black/30 rounded p-2 leading-snug">LLM bootstraps once · Cron runs forever</div>
-</div>
-
-<div class="rounded p-3 flex flex-col gap-2" style="background:#5a3d1f;color:#fff">
-  <div class="font-bold text-sm">ADVERSARIAL · Tier B · CF-managed</div>
-  <div class="bg-black/30 rounded p-2 leading-snug"><strong>Scrapy</strong> + <strong>StealthyFetcher</strong> (403-fallback middleware)</div>
-  <div class="bg-black/30 rounded p-2 leading-snug">✓ Clears CF<br/>✗ DD / Kasada / Akamai → Tier C</div>
-</div>
-
-<div class="rounded p-3 flex flex-col gap-2" style="background:#5a1f3d;color:#fff">
-  <div class="font-bold text-sm">TIER C · paid</div>
-  <div class="bg-black/30 rounded p-2 leading-snug">Vendor API as downloader<br/><em>Scrapfly · ZenRows · Bright Data</em></div>
-  <div class="bg-black/30 rounded p-2 leading-snug">$30-500/mo · pay-per-success</div>
-</div>
 
 </div>
 
